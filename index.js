@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 
 // Call api every 10 minutes
 
-cron.schedule('*/10 * * * *', () => {
+cron.schedule('*/1 * * * *', () => {
     console.log('running a task every 10 minute');
 
     let response = null;
