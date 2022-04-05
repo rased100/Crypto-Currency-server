@@ -1,10 +1,8 @@
 ﻿# Cryptup-react-node-redux-server
  
- # Live Heroku:
-  https://secret-waters-57592.herokuapp.com
-  
- # Data:
- 
-  https://secret-waters-57592.herokuapp.com/jsonData
+# live-site: https://cryptup-react-node-redux.web.app
+Client-Site-Code: https://github.com/rased100/Cryptup-react-node-redux-client
+
+Server-Site-Code: https://github.com/rased100/Cryptup-react-node-redux-server
  
   
