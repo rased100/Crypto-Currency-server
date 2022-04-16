@@ -1,13 +1,16 @@
-﻿# Cryptup-react-node-redux-server
- 
-live-site: https://cryptup-react-node-redux.web.app
+# [Crypto Currency](https://cryptup-react-node-redux.web.app)
+## About this website
+    •	User can see all Crypto currency updated price and all other information.
 
-live heroku: https://secret-waters-57592.herokuapp.com
+    •	All Crypto currency information update every 10 minutes in this site.
 
-heroku data: https://secret-waters-57592.herokuapp.com/jsonData
+    •	Crypto currency data get from coinmarketcap.com by API and Redux.
+    
+[live-site-link](https://cryptup-react-node-redux.web.app) || [Client-Site-Code](https://github.com/rased100/Cryptup-react-node-redux-client) || [Server-Site-Code](https://github.com/rased100/Cryptup-react-node-redux-server) || [Api-link](https://coinmarketcap.com/)
 
-Client-Site-Code: https://github.com/rased100/Cryptup-react-node-redux-client
+### Used Technologies: 
+**React JS, Redux, Coinmarketcap Api Authentication, Node JS, Express JS and Bootstrap.**
 
-Server-Site-Code: https://github.com/rased100/Cryptup-react-node-redux-server
- 
-  
+## Developer
+[Md Rasedul Islam](https://github.com/rased100/)
+    
